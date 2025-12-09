@@ -1,0 +1,1510 @@
+{
+  "system": {
+    "name": "theiyappan_loq",
+    "description": "Hardware: Intel64 Family 6 Model 151 Stepping 2 AT/AT COMPATIBLE - Software: Windows Version 6.3 (Build 26200 Multiprocessor Free)",
+    "uptime": "5:19:06.59",
+    "contact": "",
+    "location": "",
+    "totalInterfaces": 44,
+    "activeInterfaces": 14,
+    "timestamp": "2025-12-08 14:13:45"
+  },
+  "interfaces": [
+    {
+      "index": 1,
+      "name": "Software Loopback Interface 1",
+      "type": "24",
+      "status": "up",
+      "speedBps": 1073741824,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:13:45"
+    },
+    {
+      "index": 2,
+      "name": "Microsoft 6to4 Adapter",
+      "type": "131",
+      "status": "notPresent",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:13:55"
+    },
+    {
+      "index": 3,
+      "name": "Microsoft Wi-Fi Direct Virtual Adapter #2",
+      "type": "71",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "46:a3:bb:30:05:25",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:13:55"
+    },
+    {
+      "index": 4,
+      "name": "Microsoft IP-HTTPS Platform Adapter",
+      "type": "131",
+      "status": "notPresent",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:13:55"
+    },
+    {
+      "index": 5,
+      "name": "WAN Miniport (IPv6)",
+      "type": "6",
+      "status": "up",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:13:55"
+    },
+    {
+      "index": 6,
+      "name": "Microsoft Wi-Fi Direct Virtual Adapter",
+      "type": "71",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "44:a3:bb:30:05:26",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:13:55"
+    },
+    {
+      "index": 7,
+      "name": "WAN Miniport (IKEv2)",
+      "type": "131",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:13:55"
+    },
+    {
+      "index": 8,
+      "name": "Microsoft Kernel Debug Network Adapter",
+      "type": "6",
+      "status": "notPresent",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:13:55"
+    },
+    {
+      "index": 9,
+      "name": "Realtek PCIe GbE Family Controller",
+      "type": "6",
+      "status": "notPresent",
+      "speedBps": 0,
+      "macAddress": "40:c2:ba:87:b3:f5",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:13:55"
+    },
+    {
+      "index": 10,
+      "name": "WAN Miniport (PPPOE)",
+      "type": "23",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:13:55"
+    },
+    {
+      "index": 11,
+      "name": "Microsoft Teredo Tunneling Adapter",
+      "type": "131",
+      "status": "notPresent",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:13:55"
+    },
+    {
+      "index": 12,
+      "name": "WAN Miniport (SSTP)",
+      "type": "131",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:13:55"
+    },
+    {
+      "index": 13,
+      "name": "Bluetooth Device (Personal Area Network)",
+      "type": "6",
+      "status": "notPresent",
+      "speedBps": 0,
+      "macAddress": "44:a3:bb:30:05:29",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:13:55"
+    },
+    {
+      "index": 14,
+      "name": "Intel(R) Wi-Fi 6 AX203",
+      "type": "71",
+      "status": "up",
+      "speedBps": 330000000,
+      "macAddress": "44:a3:bb:30:05:25",
+      "traffic": {
+        "rxBytes": 74258,
+        "txBytes": 3544,
+        "totalBytes": 77802,
+        "rxBitsPerSec": 59406.4,
+        "txBitsPerSec": 2835.2,
+        "totalBitsPerSec": 62241.6
+      },
+      "utilization": {
+        "rxPercent": 0.02,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 15,
+        "txPackets": 20,
+        "rxPacketsPerSec": 1.5,
+        "txPacketsPerSec": 2.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:13:55"
+    },
+    {
+      "index": 15,
+      "name": "WAN Miniport (IP)",
+      "type": "6",
+      "status": "up",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:05"
+    },
+    {
+      "index": 16,
+      "name": "WAN Miniport (PPTP)",
+      "type": "131",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:05"
+    },
+    {
+      "index": 17,
+      "name": "WAN Miniport (Network Monitor)",
+      "type": "6",
+      "status": "up",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:05"
+    },
+    {
+      "index": 18,
+      "name": "WAN Miniport (L2TP)",
+      "type": "131",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:05"
+    },
+    {
+      "index": 19,
+      "name": "Intel(R) Wi-Fi 6 AX203-WFP Native MAC Layer LightWeight Filter-0000",
+      "type": "71",
+      "status": "up",
+      "speedBps": 330000000,
+      "macAddress": "44:a3:bb:30:05:25",
+      "traffic": {
+        "rxBytes": 122258,
+        "txBytes": 13144,
+        "totalBytes": 135402,
+        "rxBitsPerSec": 97806.4,
+        "txBitsPerSec": 10515.2,
+        "totalBitsPerSec": 108321.6
+      },
+      "utilization": {
+        "rxPercent": 0.03,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 40,
+        "txPackets": 32,
+        "rxPacketsPerSec": 4.0,
+        "txPacketsPerSec": 3.2
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:05"
+    },
+    {
+      "index": 20,
+      "name": "Intel(R) Wi-Fi 6 AX203-Virtual WiFi Filter Driver-0000",
+      "type": "71",
+      "status": "up",
+      "speedBps": 315000000,
+      "macAddress": "44:a3:bb:30:05:25",
+      "traffic": {
+        "rxBytes": 89694,
+        "txBytes": 9411,
+        "totalBytes": 99105,
+        "rxBitsPerSec": 71755.2,
+        "txBitsPerSec": 7528.8,
+        "totalBitsPerSec": 79284.0
+      },
+      "utilization": {
+        "rxPercent": 0.02,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 64,
+        "txPackets": 59,
+        "rxPacketsPerSec": 6.4,
+        "txPacketsPerSec": 5.9
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:15"
+    },
+    {
+      "index": 21,
+      "name": "Intel(R) Wi-Fi 6 AX203-Native WiFi Filter Driver-0000",
+      "type": "71",
+      "status": "up",
+      "speedBps": 330000000,
+      "macAddress": "44:a3:bb:30:05:25",
+      "traffic": {
+        "rxBytes": 384979,
+        "txBytes": 17071,
+        "totalBytes": 402050,
+        "rxBitsPerSec": 307983.2,
+        "txBitsPerSec": 13656.8,
+        "totalBitsPerSec": 321640.0
+      },
+      "utilization": {
+        "rxPercent": 0.09,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 306,
+        "txPackets": 124,
+        "rxPacketsPerSec": 30.6,
+        "txPacketsPerSec": 12.4
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:25"
+    },
+    {
+      "index": 22,
+      "name": "Intel(R) Wi-Fi 6 AX203-QoS Packet Scheduler-0000",
+      "type": "71",
+      "status": "up",
+      "speedBps": 342000000,
+      "macAddress": "44:a3:bb:30:05:25",
+      "traffic": {
+        "rxBytes": 65430,
+        "txBytes": 14204,
+        "totalBytes": 79634,
+        "rxBitsPerSec": 52344.0,
+        "txBitsPerSec": 11363.2,
+        "totalBitsPerSec": 63707.2
+      },
+      "utilization": {
+        "rxPercent": 0.02,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 39,
+        "txPackets": 45,
+        "rxPacketsPerSec": 3.9,
+        "txPacketsPerSec": 4.5
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:35"
+    },
+    {
+      "index": 23,
+      "name": "Intel(R) Wi-Fi 6 AX203-WFP 802.3 MAC Layer LightWeight Filter-0000",
+      "type": "71",
+      "status": "up",
+      "speedBps": 330000000,
+      "macAddress": "44:a3:bb:30:05:25",
+      "traffic": {
+        "rxBytes": 51603,
+        "txBytes": 1720,
+        "totalBytes": 53323,
+        "rxBitsPerSec": 41282.4,
+        "txBitsPerSec": 1376.0,
+        "totalBitsPerSec": 42658.4
+      },
+      "utilization": {
+        "rxPercent": 0.01,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 15,
+        "txPackets": 22,
+        "rxPacketsPerSec": 1.5,
+        "txPacketsPerSec": 2.2
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:45"
+    },
+    {
+      "index": 24,
+      "name": "Microsoft Wi-Fi Direct Virtual Adapter-WFP Native MAC Layer LightWeight Filter-0000",
+      "type": "71",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "44:a3:bb:30:05:26",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 25,
+      "name": "Microsoft Wi-Fi Direct Virtual Adapter-Native WiFi Filter Driver-0000",
+      "type": "71",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "44:a3:bb:30:05:26",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 26,
+      "name": "Microsoft Wi-Fi Direct Virtual Adapter-QoS Packet Scheduler-0000",
+      "type": "71",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "44:a3:bb:30:05:26",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 27,
+      "name": "Microsoft Wi-Fi Direct Virtual Adapter-WFP 802.3 MAC Layer LightWeight Filter-0000",
+      "type": "71",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "44:a3:bb:30:05:26",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 28,
+      "name": "Microsoft Wi-Fi Direct Virtual Adapter #2-WFP Native MAC Layer LightWeight Filter-0000",
+      "type": "71",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "46:a3:bb:30:05:25",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 29,
+      "name": "Microsoft Wi-Fi Direct Virtual Adapter #2-Native WiFi Filter Driver-0000",
+      "type": "71",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "46:a3:bb:30:05:25",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 30,
+      "name": "Microsoft Wi-Fi Direct Virtual Adapter #2-QoS Packet Scheduler-0000",
+      "type": "71",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "46:a3:bb:30:05:25",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 31,
+      "name": "Microsoft Wi-Fi Direct Virtual Adapter #2-WFP 802.3 MAC Layer LightWeight Filter-0000",
+      "type": "71",
+      "status": "down",
+      "speedBps": 0,
+      "macAddress": "46:a3:bb:30:05:25",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 32,
+      "name": "WAN Miniport (IP)-WFP Native MAC Layer LightWeight Filter-0000",
+      "type": "6",
+      "status": "up",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 33,
+      "name": "WAN Miniport (IP)-QoS Packet Scheduler-0000",
+      "type": "6",
+      "status": "up",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 34,
+      "name": "WAN Miniport (IPv6)-WFP Native MAC Layer LightWeight Filter-0000",
+      "type": "6",
+      "status": "up",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 35,
+      "name": "WAN Miniport (IPv6)-QoS Packet Scheduler-0000",
+      "type": "6",
+      "status": "up",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 36,
+      "name": "WAN Miniport (Network Monitor)-WFP Native MAC Layer LightWeight Filter-0000",
+      "type": "6",
+      "status": "up",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 37,
+      "name": "WAN Miniport (Network Monitor)-QoS Packet Scheduler-0000",
+      "type": "6",
+      "status": "up",
+      "speedBps": 0,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 38,
+      "name": "Hyper-V Virtual Switch Extension Adapter",
+      "type": "6",
+      "status": "up",
+      "speedBps": 4294967295,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:14:55"
+    },
+    {
+      "index": 39,
+      "name": "Hyper-V Virtual Switch Extension Adapter-Hyper-V Virtual Switch Extension Filter-0000",
+      "type": "6",
+      "status": "up",
+      "speedBps": 4294967295,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:15:05"
+    },
+    {
+      "index": 40,
+      "name": "Hyper-V Virtual Switch Extension Adapter-Virtual Filtering Platform VMSwitch Extension-0000",
+      "type": "6",
+      "status": "up",
+      "speedBps": 4294967295,
+      "macAddress": "",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:15:15"
+    },
+    {
+      "index": 41,
+      "name": "Hyper-V Virtual Ethernet Adapter",
+      "type": "6",
+      "status": "up",
+      "speedBps": 4294967295,
+      "macAddress": "00:15:5d:d8:80:74",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:15:25"
+    },
+    {
+      "index": 42,
+      "name": "Hyper-V Virtual Ethernet Adapter-WFP Native MAC Layer LightWeight Filter-0000",
+      "type": "6",
+      "status": "up",
+      "speedBps": 4294967295,
+      "macAddress": "00:15:5d:d8:80:74",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 848,
+        "totalBytes": 848,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 678.4,
+        "totalBitsPerSec": 678.4
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:15:35"
+    },
+    {
+      "index": 43,
+      "name": "Hyper-V Virtual Ethernet Adapter-QoS Packet Scheduler-0000",
+      "type": "6",
+      "status": "up",
+      "speedBps": 4294967295,
+      "macAddress": "00:15:5d:d8:80:74",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:15:45"
+    },
+    {
+      "index": 44,
+      "name": "Hyper-V Virtual Ethernet Adapter-WFP 802.3 MAC Layer LightWeight Filter-0000",
+      "type": "6",
+      "status": "up",
+      "speedBps": 4294967295,
+      "macAddress": "00:15:5d:d8:80:74",
+      "traffic": {
+        "rxBytes": 0,
+        "txBytes": 0,
+        "totalBytes": 0,
+        "rxBitsPerSec": 0.0,
+        "txBitsPerSec": 0.0,
+        "totalBitsPerSec": 0.0
+      },
+      "utilization": {
+        "rxPercent": 0.0,
+        "txPercent": 0.0
+      },
+      "packets": {
+        "rxPackets": 0,
+        "txPackets": 0,
+        "rxPacketsPerSec": 0.0,
+        "txPacketsPerSec": 0.0
+      },
+      "errors": {
+        "inErrors": 0,
+        "outErrors": 0,
+        "inDiscards": 0,
+        "outDiscards": 0,
+        "errorRatePercent": 0.0
+      },
+      "timestamp": "2025-12-08 14:15:55"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="snmpprotocol:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/snmpprotocol_jar</output-path>
+    <root id="archive" name="snmpprotocol.jar">
+      <element id="module-output" name="snmpprotocol" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/snmp4j/snmp4j/3.7.7/snmp4j-3.7.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
