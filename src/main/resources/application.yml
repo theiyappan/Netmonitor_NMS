@@ -1,0 +1,68 @@
+spring:
+  application:
+    name: snmp-monitor
+
+  datasource:
+    url: ${MYSQL_URL}
+    username: ${MYSQL_USER}
+    password: ${MYSQL_PASS}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  # 2. Cassandra Configuration (For Interface Metrics)
+
+  cassandra:
+    contact-points: ${CASSANDRA_HOST}
+    port: ${CASSANDRA_PORT}
+    keyspace-name: ${CASSANDRA_KEYSPACE}
+    local-datacenter: ${CASSANDRA_DC}
+    username: ${CASSANDRA_USER}
+    password: ${CASSANDRA_PASS}
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+
+  # --- Email Config (Port 465 / SSL) ---
+  # CRITICAL: 'mail' MUST be indented exactly like 'datasource' (2 spaces)
+  mail:
+    host: smtp.gmail.com
+    port: 465
+    username: snmpmonitor1@gmail.com
+    password: zdsg fgne jgne ujab
+    protocol: smtps
+    properties:
+      mail:
+        smtps:
+          auth: true
+          starttls:
+            enable: true
+          ssl:
+            trust: "*"
+          timeout: 5000
+          connectiontimeout: 5000
+
+# --- Custom Alerting Config ---
+alerting:
+  recipient-email: iyappan18052006@gmail.com
+  suppression-minutes: 60
+
+# --- SNMP Config ---
+snmp:
+  host: 127.0.0.1
+  port: 161
+  community: public
+  monitoring-duration: 10
+  scan-interval: 300000
+
+server:
+  port: 8080
+
+# --- Disable Health Check (Prevents Log Warnings) ---
+management:
+  health:
+    mail:
+      enabled: false
